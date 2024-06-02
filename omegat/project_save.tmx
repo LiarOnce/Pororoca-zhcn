@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(connection exception here, if it happens)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162547Z" creationid="LiarOnce" creationdate="20240602T162343Z">
+        <seg> (如果发生连接异常，请参阅此处)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(could not read body as UTF-8 text, {0} bytes)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T155008Z">
@@ -126,6 +134,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(message content)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162547Z" creationid="LiarOnce" creationdate="20240602T162444Z">
+        <seg>(消息内容)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(message type)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162547Z" creationid="LiarOnce" creationdate="20240602T162446Z">
+        <seg> (消息类型)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(password)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T161257Z">
@@ -194,6 +218,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154313Z">
         <seg> (选择基本http请求)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(websocket url here)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162421Z" creationid="LiarOnce" creationdate="20240602T162419Z">
+        <seg>(websocket url)</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add subprotocol</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162344Z" creationid="LiarOnce" creationdate="20240602T162344Z">
+        <seg>添加子协议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add text</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154744Z" creationid="LiarOnce" creationdate="20240602T154744Z">
@@ -350,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Be careful when using compression with encrypted data - look out for CRIME / BREACH attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162304Z" creationid="LiarOnce" creationdate="20240602T162304Z">
+        <seg>对加密数据使用压缩时要小心 - 留意犯罪/泄露攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bearer</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161236Z" creationid="LiarOnce" creationdate="20240602T161236Z">
@@ -370,6 +418,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154658Z" creationid="LiarOnce" creationdate="20240602T154658Z">
         <seg>主体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CONNECTED</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162336Z" creationid="LiarOnce" creationdate="20240602T162336Z">
+        <seg>CONNECTED</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,6 +502,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Client context takeover</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162318Z" creationid="LiarOnce" creationdate="20240602T162318Z">
+        <seg>客户端上下文接管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Client max window bits</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162321Z" creationid="LiarOnce" creationdate="20240602T162321Z">
+        <seg>客户端最大窗口位数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Closing message</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155144Z" creationid="LiarOnce" creationdate="20240602T155144Z">
@@ -482,6 +554,38 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153345Z" creationid="LiarOnce" creationdate="20240602T153345Z">
         <seg>Collection-scoped 请求标头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compression</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162409Z" creationid="LiarOnce" creationdate="20240602T162409Z">
+        <seg>压缩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Connect</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162330Z" creationid="LiarOnce" creationdate="20240602T162330Z">
+        <seg>连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Connect (F5)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162547Z" creationid="LiarOnce" creationdate="20240602T162332Z">
+        <seg>连接 (F5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Connection</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162413Z" creationid="LiarOnce" creationdate="20240602T162413Z">
+        <seg>连接</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,6 +662,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable compression for this message</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162306Z" creationid="LiarOnce" creationdate="20240602T162306Z">
+        <seg>禁用此消息的压缩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disconnect</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162354Z" creationid="LiarOnce" creationdate="20240602T162346Z">
+        <seg>断开连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disconnect (F6)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162351Z" creationid="LiarOnce" creationdate="20240602T162351Z">
+        <seg>断开连接 (F6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Duplicate</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153539Z" creationid="LiarOnce" creationdate="20240602T153539Z">
@@ -578,6 +706,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154629Z" creationid="LiarOnce" creationdate="20240602T154629Z">
         <seg>运行时间：{1}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable TLS verification</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162205Z" creationid="LiarOnce" creationdate="20240602T162205Z">
+        <seg>启用 TLS 验证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable compression</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162356Z" creationid="LiarOnce" creationdate="20240602T162356Z">
+        <seg>启用压缩</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +762,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160742Z" creationid="LiarOnce" creationdate="20240602T160742Z">
         <seg>执行捕获</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162158Z" creationid="LiarOnce" creationdate="20240602T162158Z">
+        <seg>退出</seg>
       </tuv>
     </tu>
     <tu>
@@ -830,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HH:mm:ss, yyyy-MM-dd, 'GMT'z'h'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162503Z" creationid="LiarOnce" creationdate="20240602T162503Z">
+        <seg>HH:mm:ss, yyyy-MM-dd, 'GMT'z'h'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HTTP/3 is only available for Linux with msquic or Windows 11 and greater.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161555Z" creationid="LiarOnce" creationdate="20240602T161555Z">
@@ -942,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import from file…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162201Z" creationid="LiarOnce" creationdate="20240602T162201Z">
+        <seg>从文件导入...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import private key in PEM format</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161402Z" creationid="LiarOnce" creationdate="20240602T161402Z">
@@ -1046,6 +1214,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Message detail</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162448Z" creationid="LiarOnce" creationdate="20240602T162448Z">
+        <seg>消息细节</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Messages exchanged</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162519Z" creationid="LiarOnce" creationdate="20240602T162519Z">
+        <seg>交换消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mode</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154332Z" creationid="LiarOnce" creationdate="20240602T154332Z">
@@ -1098,6 +1282,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153715Z" creationid="LiarOnce" creationdate="20240602T153715Z">
         <seg>新建 WebSocket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New WebSocket connection</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162407Z" creationid="LiarOnce" creationdate="20240602T162407Z">
+        <seg>新建 WebSocket 连接</seg>
       </tuv>
     </tu>
     <tu>
@@ -1390,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remember to periodically check for updates!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162237Z" creationid="LiarOnce" creationdate="20240602T162229Z">
+        <seg>请记住定期检查更新!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154729Z" creationid="LiarOnce" creationdate="20240602T154729Z">
@@ -1482,6 +1682,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155054Z" creationid="LiarOnce" creationdate="20240602T155054Z">
         <seg>Russian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save all</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162200Z" creationid="LiarOnce" creationdate="20240602T162200Z">
+        <seg>保存全部</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +1790,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Server context takeover</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162326Z" creationid="LiarOnce" creationdate="20240602T162326Z">
+        <seg>服务器上下文接管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Server max window bits</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162328Z" creationid="LiarOnce" creationdate="20240602T162328Z">
+        <seg>服务器最大窗口位数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set as current environment</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161130Z" creationid="LiarOnce" creationdate="20240602T153727Z">
@@ -1634,6 +1858,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154326Z">
         <seg>停止 (F6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subprotocols</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162410Z" creationid="LiarOnce" creationdate="20240602T162410Z">
+        <seg>子协议</seg>
       </tuv>
     </tu>
     <tu>
@@ -1896,8 +2128,8 @@
       <tuv lang="en-US">
         <seg>Welcome!</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T152809Z" creationid="LiarOnce" creationdate="20240602T152809Z">
-        <seg>欢迎！</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162230Z" creationid="LiarOnce" creationdate="20240602T152809Z">
+        <seg>欢迎!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,10 +2166,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>binary, {0} bytes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162452Z" creationid="LiarOnce" creationdate="20240602T162452Z">
+        <seg>二进制，{0} 字节</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>cancelled</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154631Z" creationid="LiarOnce" creationdate="20240602T154631Z">
         <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>client -&gt; server</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162459Z" creationid="LiarOnce" creationdate="20240602T162459Z">
+        <seg>客户端 -&gt; 服务器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>closing, {0} bytes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162454Z" creationid="LiarOnce" creationdate="20240602T162454Z">
+        <seg>关闭，{0} 字节</seg>
       </tuv>
     </tu>
     <tu>
@@ -1954,6 +2210,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154650Z" creationid="LiarOnce" creationdate="20240602T154650Z">
         <seg>意外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>server -&gt; client</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162502Z" creationid="LiarOnce" creationdate="20240602T162502Z">
+        <seg>服务器 -&gt; 客户端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>text, {0} bytes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162532Z" creationid="LiarOnce" creationdate="20240602T162532Z">
+        <seg>文本，{0} 字节</seg>
       </tuv>
     </tu>
     <tu>
