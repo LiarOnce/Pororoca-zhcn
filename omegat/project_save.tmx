@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>(binary content not shown, {0} bytes)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154932Z" creationid="LiarOnce" creationdate="20240602T154932Z">
+        <seg>（未显示二进制内容，{0} 字节）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(could not read body as UTF-8 text, {0} bytes)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155008Z" creationid="LiarOnce" creationdate="20240602T155008Z">
+        <seg>（无法将正文读取为 UTF-8 文本，{0} 字节）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(file content-type)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154707Z" creationid="LiarOnce" creationdate="20240602T154707Z">
+        <seg>(文件内容类型）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(file path here)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155132Z" creationid="LiarOnce" creationdate="20240602T155132Z">
+        <seg>(文件路径）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(file path)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154713Z" creationid="LiarOnce" creationdate="20240602T154713Z">
+        <seg>(文件路径）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(file src path)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154443Z" creationid="LiarOnce" creationdate="20240602T154443Z">
+        <seg>(文件来源路径）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(graph ql query here)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154759Z" creationid="LiarOnce" creationdate="20240602T154759Z">
+        <seg>(graph ql 查询)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(graph ql variables here)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154804Z" creationid="LiarOnce" creationdate="20240602T154804Z">
+        <seg>(graph ql 变量)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(raw body here)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154850Z" creationid="LiarOnce" creationdate="20240602T154850Z">
+        <seg>(原始主体)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(raw content here)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155138Z" creationid="LiarOnce" creationdate="20240602T155138Z">
+        <seg>(原始内容）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(raw content-type here)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154841Z" creationid="LiarOnce" creationdate="20240602T154841Z">
+        <seg>(原始内容类型）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(request url here)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154927Z" creationid="LiarOnce" creationdate="20240602T154927Z">
+        <seg>（请求 url）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(response body here)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154951Z" creationid="LiarOnce" creationdate="20240602T154951Z">
+        <seg>（响应主体）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(response content-type here)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154954Z" creationid="LiarOnce" creationdate="20240602T154938Z">
+        <seg>（响应内容类型）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(select the base http request)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154313Z" creationid="LiarOnce" creationdate="20240602T154313Z">
+        <seg>（选择基本http请求）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add HTTP repeater</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153016Z" creationid="LiarOnce" creationdate="20240602T153016Z">
+        <seg>添加 HTTP 转发器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add HTTP request</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153010Z" creationid="LiarOnce" creationdate="20240602T153003Z">
+        <seg>添加 HTTP 请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add WebSocket</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153008Z" creationid="LiarOnce" creationdate="20240602T153008Z">
+        <seg>添加 WebSocket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add environment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153000Z" creationid="LiarOnce" creationdate="20240602T153000Z">
+        <seg>添加环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154715Z" creationid="LiarOnce" creationdate="20240602T154715Z">
+        <seg>添加文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153001Z" creationid="LiarOnce" creationdate="20240602T153001Z">
+        <seg>添加文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add header</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154913Z" creationid="LiarOnce" creationdate="20240602T154902Z">
+        <seg>添加报头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add param</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154851Z" creationid="LiarOnce" creationdate="20240602T154851Z">
+        <seg>添加参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154744Z" creationid="LiarOnce" creationdate="20240602T154744Z">
+        <seg>添加文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add variable</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153346Z" creationid="LiarOnce" creationdate="20240602T153346Z">
+        <seg>添加变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Amazonian night</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155101Z" creationid="LiarOnce" creationdate="20240602T155101Z">
+        <seg>Amazonian night</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Are you sure you want to delete '{0}'?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153755Z" creationid="LiarOnce" creationdate="20240602T153755Z">
+        <seg>您确定要删除 "{0}" 吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Are you sure you want to delete the selected items?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153758Z" creationid="LiarOnce" creationdate="20240602T153758Z">
+        <seg>您确定要删除所选项目吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auth</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153451Z" creationid="LiarOnce" creationdate="20240602T153451Z">
+        <seg>授权</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Binary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155142Z" creationid="LiarOnce" creationdate="20240602T155142Z">
+        <seg>二进制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Body</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154658Z" creationid="LiarOnce" creationdate="20240602T154658Z">
+        <seg>主体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CONTENT-TYPE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154716Z" creationid="LiarOnce" creationdate="20240602T154716Z">
+        <seg>CONTENT-TYPE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154854Z" creationid="LiarOnce" creationdate="20240602T154854Z">
+        <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cancel (F6)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154856Z" creationid="LiarOnce" creationdate="20240602T154856Z">
+        <seg>取消（F6）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot paste a cut item to itself.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T152959Z" creationid="LiarOnce" creationdate="20240602T152959Z">
+        <seg>无法将剪切项目粘贴到其本身。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153019Z" creationid="LiarOnce" creationdate="20240602T153019Z">
+        <seg>选择格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Closing message</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155144Z" creationid="LiarOnce" creationdate="20240602T155144Z">
+        <seg>结束消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Collection / OpenAPI files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153238Z" creationid="LiarOnce" creationdate="20240602T153230Z">
+        <seg>集合 / OpenAPI 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Collection variables</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153417Z" creationid="LiarOnce" creationdate="20240602T153417Z">
+        <seg>集合变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Collection-scoped auth</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153338Z" creationid="LiarOnce" creationdate="20240602T153338Z">
+        <seg>Collection-scoped 授权</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Collection-scoped request headers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153345Z" creationid="LiarOnce" creationdate="20240602T153345Z">
+        <seg>Collection-scoped 请求标头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153531Z" creationid="LiarOnce" creationdate="20240602T153531Z">
+        <seg>复制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Custom Auth</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154858Z" creationid="LiarOnce" creationdate="20240602T154858Z">
+        <seg>自定义授权</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153534Z" creationid="LiarOnce" creationdate="20240602T153534Z">
+        <seg>剪切</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dark</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155101Z" creationid="LiarOnce" creationdate="20240602T155101Z">
+        <seg>Dark</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delay (ms)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154359Z" creationid="LiarOnce" creationdate="20240602T154359Z">
+        <seg>延迟（ms）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153537Z" creationid="LiarOnce" creationdate="20240602T153537Z">
+        <seg>删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disable as current environment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154025Z" creationid="LiarOnce" creationdate="20240602T154025Z">
+        <seg>禁用当前环境变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153539Z" creationid="LiarOnce" creationdate="20240602T153539Z">
+        <seg>重复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ENABLED</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153418Z" creationid="LiarOnce" creationdate="20240602T153418Z">
+        <seg>ENABLED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Elapsed time: {1}.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154629Z" creationid="LiarOnce" creationdate="20240602T154629Z">
+        <seg>运行时间：{1}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155052Z" creationid="LiarOnce" creationdate="20240602T155052Z">
+        <seg>English</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Environment files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153521Z" creationid="LiarOnce" creationdate="20240602T153250Z">
+        <seg>环境变量文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Environments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153509Z" creationid="LiarOnce" creationdate="20240602T153509Z">
+        <seg>环境变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Estimated time remaining: {2}.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154611Z" creationid="LiarOnce" creationdate="20240602T154611Z">
+        <seg>预计剩余时间：{2}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153543Z" creationid="LiarOnce" creationdate="20240602T153543Z">
+        <seg>导出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export all logs…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154526Z" creationid="LiarOnce" creationdate="20240602T154526Z">
+        <seg>导出所有日志...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export as Pororoca…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153032Z" creationid="LiarOnce" creationdate="20240602T153032Z">
+        <seg>导出为 Pororoca...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export as Postman…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153056Z" creationid="LiarOnce" creationdate="20240602T153056Z">
+        <seg>导出为 Postman...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export collection in Pororoca format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153046Z" creationid="LiarOnce" creationdate="20240602T153046Z">
+        <seg>以 Pororoca 格式导出集合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export collection in Postman format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153109Z" creationid="LiarOnce" creationdate="20240602T153109Z">
+        <seg>以 Postman 格式导出集合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export collection to file (choose format)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153130Z" creationid="LiarOnce" creationdate="20240602T153130Z">
+        <seg>将集合输出到文件 (选择格式)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export collection…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153115Z" creationid="LiarOnce" creationdate="20240602T153115Z">
+        <seg>导出集合…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export environment in Pororoca format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153924Z" creationid="LiarOnce" creationdate="20240602T153924Z">
+        <seg>以 Pororoca 格式导出环境变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export environment in Postman format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153934Z" creationid="LiarOnce" creationdate="20240602T153934Z">
+        <seg>以 Postman 格式导出环境变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export environment to file (choose format)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154007Z" creationid="LiarOnce" creationdate="20240602T154007Z">
+        <seg>将环境变量输出到文件 (选择格式)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export environment…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153952Z" creationid="LiarOnce" creationdate="20240602T153952Z">
+        <seg>导出环境变量…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export report…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154456Z" creationid="LiarOnce" creationdate="20240602T154456Z">
+        <seg>导出报告…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154431Z" creationid="LiarOnce" creationdate="20240602T154431Z">
+        <seg>文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finished {0} repetitions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154615Z" creationid="LiarOnce" creationdate="20240602T154615Z">
+        <seg>已完成 {0} 次重复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Form Data</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154806Z" creationid="LiarOnce" creationdate="20240602T154806Z">
+        <seg>表单数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go back</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T152741Z" creationid="LiarOnce" creationdate="20240602T152741Z">
+        <seg>返回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to docs</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T152856Z" creationid="LiarOnce" creationdate="20240602T152856Z">
+        <seg>转到文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to site</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155117Z" creationid="LiarOnce" creationdate="20240602T155117Z">
+        <seg>前往网站</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Graph QL</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154807Z" creationid="LiarOnce" creationdate="20240602T154807Z">
+        <seg>Graph QL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HEADER NAME</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154902Z" creationid="LiarOnce" creationdate="20240602T154902Z">
+        <seg>HEADER NAME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Headers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154911Z" creationid="LiarOnce" creationdate="20240602T154911Z">
+        <seg>报头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154039Z" creationid="LiarOnce" creationdate="20240602T154039Z">
+        <seg>帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'll check later</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155113Z" creationid="LiarOnce" creationdate="20240602T155113Z">
+        <seg>我稍后再检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IS SECRET</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153419Z" creationid="LiarOnce" creationdate="20240602T153419Z">
+        <seg>IS SECRET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import OpenAPI…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T152855Z" creationid="LiarOnce" creationdate="20240602T152855Z">
+        <seg>导入 OpenAPI…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import collection / OpenAPI files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153226Z" creationid="LiarOnce" creationdate="20240602T153226Z">
+        <seg>导入集合 / OpenAPI 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import collection…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T152847Z" creationid="LiarOnce" creationdate="20240602T152847Z">
+        <seg>导入集合...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import environment files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153519Z" creationid="LiarOnce" creationdate="20240602T153249Z">
+        <seg>导入环境变量文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import environment…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153516Z" creationid="LiarOnce" creationdate="20240602T153248Z">
+        <seg>导入环境变量...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Include secret variables when exporting</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153219Z" creationid="LiarOnce" creationdate="20240602T153219Z">
+        <seg>导出时包括 secret 变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Input data</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154405Z" creationid="LiarOnce" creationdate="20240602T154405Z">
+        <seg>输入数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Input line</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154540Z" creationid="LiarOnce" creationdate="20240602T154540Z">
+        <seg>输入线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155054Z" creationid="LiarOnce" creationdate="20240602T155054Z">
+        <seg>Italian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JSON</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155145Z" creationid="LiarOnce" creationdate="20240602T155145Z">
+        <seg>JSON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keyboard shortcuts\n\nF1 - Show help\nF2 - Rename\nF4 - Focus on URL\nF5 - Send request / connect WebSocket\nF6 - Cancel request / disconnect WebSocket\nF7 - Set previous environment as active\nF8 - Set next environment as active\nF9 - Save response body to file\nF10 - Export HTTP log to file\nCtrl+PageUp - Switch to item above in tree\nCtrl+PageDown - Switch to item below in tree\nCtrl+Shift+S - Save all\n\nFull documentation on site: https://pororoca.io</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154311Z" creationid="LiarOnce" creationdate="20240602T154047Z">
+        <seg>键盘快捷方式\n\nF1 - 显示帮助\nF2 - 重命名\nF4 - 关注 URL\nF5 - 发送请求/连接 WebSocket\nF6 - 取消请求/断开 WebSocket\nF7 - 将上一个环境设置为活动\nF8 - 将下一个环境设置为活动\nF9 - 将响应正文保存到文件\nF10 - 将 HTTP 日志输出到文件\nCtrl+PageUp -切换到树中上方的项\nCtrl+PageDown -切换到树中的下方的项\nCtrl+Shift+S -保存所有\n\n网站上的完整文档：https://pororoca.io</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155058Z" creationid="LiarOnce" creationdate="20240602T155058Z">
+        <seg>语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Light</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155102Z" creationid="LiarOnce" creationdate="20240602T155102Z">
+        <seg>Light</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154332Z" creationid="LiarOnce" creationdate="20240602T154332Z">
+        <seg>模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move down</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153545Z" creationid="LiarOnce" creationdate="20240602T153545Z">
+        <seg>下移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move up</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153546Z" creationid="LiarOnce" creationdate="20240602T153546Z">
+        <seg>上移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NAME</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154718Z" creationid="LiarOnce" creationdate="20240602T154718Z">
+        <seg>NAME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New HTTP repeater</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153705Z" creationid="LiarOnce" creationdate="20240602T153705Z">
+        <seg>新建 HTTP 转发器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New HTTP request</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153656Z" creationid="LiarOnce" creationdate="20240602T153656Z">
+        <seg>新建 HTTP 请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New WebSocket</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153715Z" creationid="LiarOnce" creationdate="20240602T153715Z">
+        <seg>新建 WebSocket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New client message</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153711Z" creationid="LiarOnce" creationdate="20240602T153711Z">
+        <seg>新建客户端消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New collection</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T152838Z" creationid="LiarOnce" creationdate="20240602T152838Z">
+        <seg>新集合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New environment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153616Z" creationid="LiarOnce" creationdate="20240602T153616Z">
+        <seg>新建环境变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153649Z" creationid="LiarOnce" creationdate="20240602T153649Z">
+        <seg>新建文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154823Z" creationid="LiarOnce" creationdate="20240602T154823Z">
+        <seg>无</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155147Z" creationid="LiarOnce" creationdate="20240602T155147Z">
+        <seg>其他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PARAMETER NAME</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154852Z" creationid="LiarOnce" creationdate="20240602T154852Z">
+        <seg>PARAMETER NAME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pampa</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155102Z" creationid="LiarOnce" creationdate="20240602T155102Z">
+        <seg>Pampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parallelism</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154357Z" creationid="LiarOnce" creationdate="20240602T154357Z">
+        <seg>并行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153718Z" creationid="LiarOnce" creationdate="20240602T153718Z">
+        <seg>粘贴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pororoca</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155121Z" creationid="LiarOnce" creationdate="20240602T155121Z">
+        <seg>Pororoca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pororoca - Copy items</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153902Z" creationid="LiarOnce" creationdate="20240602T152930Z">
+        <seg>Pororoca - 复制项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pororoca - Cut items</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153902Z" creationid="LiarOnce" creationdate="20240602T152953Z">
+        <seg>Pororoca - 剪切项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pororoca - Delete items</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153902Z" creationid="LiarOnce" creationdate="20240602T153748Z">
+        <seg>Pororoca - 删除项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pororoca - User data folder migrated</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T152752Z" creationid="LiarOnce" creationdate="20240602T152752Z">
+        <seg>Pororoca - 用户数据文件夹已迁移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pororoca collection</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153257Z" creationid="LiarOnce" creationdate="20240602T153257Z">
+        <seg>Pororoca 集合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pororoca environment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154011Z" creationid="LiarOnce" creationdate="20240602T154011Z">
+        <seg>Pororoca 环境变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155053Z" creationid="LiarOnce" creationdate="20240602T155053Z">
+        <seg>Portuguese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Postman collection v2.1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153301Z" creationid="LiarOnce" creationdate="20240602T153301Z">
+        <seg>Postman 集合 v2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Postman environment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154016Z" creationid="LiarOnce" creationdate="20240602T154016Z">
+        <seg>Postman 环境变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quantity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154354Z" creationid="LiarOnce" creationdate="20240602T154354Z">
+        <seg>数量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Random</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154336Z" creationid="LiarOnce" creationdate="20240602T154336Z">
+        <seg>随机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raw</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154828Z" creationid="LiarOnce" creationdate="20240602T154828Z">
+        <seg>原始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raw JSON array</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154410Z" creationid="LiarOnce" creationdate="20240602T154410Z">
+        <seg>原始JSON数组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Refresh list</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154315Z" creationid="LiarOnce" creationdate="20240602T154315Z">
+        <seg>刷新列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154729Z" creationid="LiarOnce" creationdate="20240602T154729Z">
+        <seg>移除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove variable</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153349Z" creationid="LiarOnce" creationdate="20240602T153349Z">
+        <seg>移除变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rename</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153720Z" creationid="LiarOnce" creationdate="20240602T153720Z">
+        <seg>重命名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rename (F2)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153845Z" creationid="LiarOnce" creationdate="20240602T153845Z">
+        <seg>重命名 (F2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Repetition</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154609Z" creationid="LiarOnce" creationdate="20240602T154331Z">
+        <seg>重复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Request</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154916Z" creationid="LiarOnce" creationdate="20240602T154916Z">
+        <seg>请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154652Z" creationid="LiarOnce" creationdate="20240602T154652Z">
+        <seg>结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run UI tests (Ctrl+F12)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155112Z" creationid="LiarOnce" creationdate="20240602T155112Z">
+        <seg>运行UI测试（Alt +F12）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155054Z" creationid="LiarOnce" creationdate="20240602T155054Z">
+        <seg>Russian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save all responses…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154513Z" creationid="LiarOnce" creationdate="20240602T154513Z">
+        <seg>保存所有响应…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save as…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155016Z" creationid="LiarOnce" creationdate="20240602T155016Z">
+        <seg>另存为...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save as… (F9)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155023Z" creationid="LiarOnce" creationdate="20240602T155023Z">
+        <seg>另存为...（F9）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search file…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154446Z" creationid="LiarOnce" creationdate="20240602T154446Z">
+        <seg>搜索文件...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select destination folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154038Z" creationid="LiarOnce" creationdate="20240602T154038Z">
+        <seg>选择目标文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Send</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154917Z" creationid="LiarOnce" creationdate="20240602T154917Z">
+        <seg>发送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Send (F5)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154919Z" creationid="LiarOnce" creationdate="20240602T154919Z">
+        <seg>发送（F5）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sequential</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154335Z" creationid="LiarOnce" creationdate="20240602T154335Z">
+        <seg>顺序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set as current environment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153727Z" creationid="LiarOnce" creationdate="20240602T153727Z">
+        <seg>设置为当前环境变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set collection headers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153017Z" creationid="LiarOnce" creationdate="20240602T153017Z">
+        <seg>设置集合标题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Simple</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154333Z" creationid="LiarOnce" creationdate="20240602T154333Z">
+        <seg>简单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154316Z" creationid="LiarOnce" creationdate="20240602T154316Z">
+        <seg>开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start (F5)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154322Z" creationid="LiarOnce" creationdate="20240602T154322Z">
+        <seg>开始（F5）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154325Z" creationid="LiarOnce" creationdate="20240602T154325Z">
+        <seg>停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop (F6)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154326Z" creationid="LiarOnce" creationdate="20240602T154326Z">
+        <seg>停止（F6）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TEXT / PATH</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154730Z" creationid="LiarOnce" creationdate="20240602T154730Z">
+        <seg>TEXT / PATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TYPE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154733Z" creationid="LiarOnce" creationdate="20240602T154733Z">
+        <seg>TYPE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154742Z" creationid="LiarOnce" creationdate="20240602T154742Z">
+        <seg>文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155059Z" creationid="LiarOnce" creationdate="20240602T155059Z">
+        <seg>主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tip: If an environment variable has the same name of an other collection variable, the value of the environment variable will be the one applied.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154033Z" creationid="LiarOnce" creationdate="20240602T154033Z">
+        <seg>提示：如果环境变量与其他集合变量同名，则环境变量的值将是应用的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tip: To use a variable, type {{VariableName}} in the URL, body, authentication or header of your request.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153403Z" creationid="LiarOnce" creationdate="20240602T153403Z">
+        <seg>提示：要使用变量，请在请求的 URL、正文、身份验证或标头中输入 {{VariableName}}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>URL encoded</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154831Z" creationid="LiarOnce" creationdate="20240602T154831Z">
+        <seg>URL 编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VALUE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153421Z" creationid="LiarOnce" creationdate="20240602T153421Z">
+        <seg>VALUE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VARIABLE NAME</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153420Z" creationid="LiarOnce" creationdate="20240602T153420Z">
+        <seg>VARIABLE NAME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Variables</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153526Z" creationid="LiarOnce" creationdate="20240602T153526Z">
+        <seg>变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155109Z" creationid="LiarOnce" creationdate="20240602T155109Z">
+        <seg>查看键盘快捷键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visit GitHub repo</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T152903Z" creationid="LiarOnce" creationdate="20240602T152903Z">
+        <seg>访问 GitHub 仓库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Waiting time between a response and sending the next request.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154403Z" creationid="LiarOnce" creationdate="20240602T154403Z">
+        <seg>响应和发送下一个请求之间的等待时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Welcome!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T152809Z" creationid="LiarOnce" creationdate="20240602T152809Z">
+        <seg>欢迎！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When sending the request, the {{VariableName}} text will be replaced by the variable's value.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153410Z" creationid="LiarOnce" creationdate="20240602T153410Z">
+        <seg>发送请求时，{{VariableName}} 文本将被变量的值替换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can duplicate, but not copy or cut a collection.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T152937Z" creationid="LiarOnce" creationdate="20240602T152937Z">
+        <seg>您可以复制，但不能复制或剪切集合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your user data directory is now located at:\n{0}\nYou can backup and manually delete the PororocaUserData folder inside Applications.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T152807Z" creationid="LiarOnce" creationdate="20240602T152807Z">
+        <seg>您的用户数据目录现在位于：\n{0}\n您可以备份和手动删除应用程序内的PororocaUserData文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cancelled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154631Z" creationid="LiarOnce" creationdate="20240602T154631Z">
+        <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>comments are allowed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154430Z" creationid="LiarOnce" creationdate="20240602T154430Z">
+        <seg>允许添加注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>exception</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154650Z" creationid="LiarOnce" creationdate="20240602T154650Z">
+        <seg>意外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0}/{1} repetitions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154606Z" creationid="LiarOnce" creationdate="20240602T154606Z">
+        <seg>{0}/{1} 重复.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
