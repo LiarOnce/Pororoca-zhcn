@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>(basic auth login)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161229Z" creationid="LiarOnce" creationdate="20240602T161229Z">
+        <seg>（基本授权登录）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(basic auth password)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161231Z" creationid="LiarOnce" creationdate="20240602T161231Z">
+        <seg>（基本授权密码）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(binary content not shown, {0} bytes)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154932Z" creationid="LiarOnce" creationdate="20240602T154932Z">
         <seg>（未显示二进制内容，{0} 字节）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(certificate file path here)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161303Z" creationid="LiarOnce" creationdate="20240602T161303Z">
+        <seg>（证书文件路径）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,10 +46,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(domain)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161300Z" creationid="LiarOnce" creationdate="20240602T161300Z">
+        <seg>（域）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(file content-type)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154707Z" creationid="LiarOnce" creationdate="20240602T154707Z">
         <seg>(文件内容类型）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(file password here)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161316Z" creationid="LiarOnce" creationdate="20240602T161316Z">
+        <seg>(文件密码）</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +106,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154804Z" creationid="LiarOnce" creationdate="20240602T154804Z">
         <seg>(graph ql 变量)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(login)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161255Z" creationid="LiarOnce" creationdate="20240602T161255Z">
+        <seg>（登录）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(password)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161257Z" creationid="LiarOnce" creationdate="20240602T161257Z">
+        <seg>（密码）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(private key file path here)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161447Z" creationid="LiarOnce" creationdate="20240602T161447Z">
+        <seg>（私钥文件路径）</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add body capture</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160729Z" creationid="LiarOnce" creationdate="20240602T160729Z">
+        <seg>添加主题捕捉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add environment</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153000Z" creationid="LiarOnce" creationdate="20240602T153000Z">
@@ -178,6 +250,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154913Z" creationid="LiarOnce" creationdate="20240602T154902Z">
         <seg>添加报头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add header capture</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160720Z" creationid="LiarOnce" creationdate="20240602T160720Z">
+        <seg>添加标头捕获</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +318,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Base HTTP request not found.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161623Z" creationid="LiarOnce" creationdate="20240602T161623Z">
+        <seg>找不到基本 HTTP 请求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Basic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161226Z" creationid="LiarOnce" creationdate="20240602T161226Z">
+        <seg>基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bearer</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161236Z" creationid="LiarOnce" creationdate="20240602T161236Z">
+        <seg>承载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Binary</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155142Z" creationid="LiarOnce" creationdate="20240602T155142Z">
@@ -286,10 +390,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Capture</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160718Z" creationid="LiarOnce" creationdate="20240602T160718Z">
+        <seg>捕获</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose format</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153019Z" creationid="LiarOnce" creationdate="20240602T153019Z">
         <seg>选择格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Client certificate</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161246Z" creationid="LiarOnce" creationdate="20240602T161246Z">
+        <seg>客户端证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Client certificate file not found.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161505Z" creationid="LiarOnce" creationdate="20240602T161505Z">
+        <seg>找不到客户端证书文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Client certificate private key file not found.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161517Z" creationid="LiarOnce" creationdate="20240602T161517Z">
+        <seg>找不到客户端证书私钥文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,10 +518,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable TLS verification</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160647Z" creationid="LiarOnce" creationdate="20240602T160647Z">
+        <seg>关闭 TLS 验证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Disable as current environment</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154025Z" creationid="LiarOnce" creationdate="20240602T154025Z">
-        <seg>禁用当前环境变量</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161158Z" creationid="LiarOnce" creationdate="20240602T154025Z">
+        <seg>禁用当前环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,16 +568,16 @@
       <tuv lang="en-US">
         <seg>Environment files</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153521Z" creationid="LiarOnce" creationdate="20240602T153250Z">
-        <seg>环境变量文件</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161047Z" creationid="LiarOnce" creationdate="20240602T153250Z">
+        <seg>环境文件</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Environments</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153509Z" creationid="LiarOnce" creationdate="20240602T153509Z">
-        <seg>环境变量</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161058Z" creationid="LiarOnce" creationdate="20240602T153509Z">
+        <seg>环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,6 +586,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154611Z" creationid="LiarOnce" creationdate="20240602T154611Z">
         <seg>预计剩余时间：{2}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Execute captures</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160742Z" creationid="LiarOnce" creationdate="20240602T160742Z">
+        <seg>执行捕获</seg>
       </tuv>
     </tu>
     <tu>
@@ -512,32 +664,48 @@
       <tuv lang="en-US">
         <seg>Export environment in Pororoca format</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153924Z" creationid="LiarOnce" creationdate="20240602T153924Z">
-        <seg>以 Pororoca 格式导出环境变量</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161138Z" creationid="LiarOnce" creationdate="20240602T153924Z">
+        <seg>以 Pororoca 格式导出环境</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Export environment in Postman format</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153934Z" creationid="LiarOnce" creationdate="20240602T153934Z">
-        <seg>以 Postman 格式导出环境变量</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161140Z" creationid="LiarOnce" creationdate="20240602T153934Z">
+        <seg>以 Postman 格式导出环境</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Export environment to file (choose format)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154007Z" creationid="LiarOnce" creationdate="20240602T154007Z">
-        <seg>将环境变量输出到文件 (选择格式)</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161152Z" creationid="LiarOnce" creationdate="20240602T154007Z">
+        <seg>将环境输出到文件 (选择格式)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Export environment…</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153952Z" creationid="LiarOnce" creationdate="20240602T153952Z">
-        <seg>导出环境变量…</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161143Z" creationid="LiarOnce" creationdate="20240602T153952Z">
+        <seg>导出环境…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export log…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160630Z" creationid="LiarOnce" creationdate="20240602T160630Z">
+        <seg>导出日志...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export log… (F10)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160632Z" creationid="LiarOnce" creationdate="20240602T160632Z">
+        <seg>导出日志... (F10)</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +730,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154615Z" creationid="LiarOnce" creationdate="20240602T154615Z">
         <seg>已完成 {0} 次重复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For XML value capture, use XPath 1.0 syntax.\n\nCaptured values are saved into current environment variables.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161020Z" creationid="LiarOnce" creationdate="20240602T161020Z">
+        <seg>对于 XML 值捕获，请使用 XPath 1.0 语法。\n\n捕获的值保存到当前环境变量中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +790,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HEADER NAME / BODY PATH</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160740Z" creationid="LiarOnce" creationdate="20240602T160740Z">
+        <seg>HEADER NAME / BODY PATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HTTP/3 is only available for Linux with msquic or Windows 11 and greater.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161555Z" creationid="LiarOnce" creationdate="20240602T161555Z">
+        <seg>HTTP/3 仅适用于配备 msquic 的 Linux 或 Windows 11 及更高版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Header</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160739Z" creationid="LiarOnce" creationdate="20240602T160739Z">
+        <seg>报头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Headers</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154911Z" creationid="LiarOnce" creationdate="20240602T154911Z">
@@ -646,10 +846,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If no environment is active, then into collection variables.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160946Z" creationid="LiarOnce" creationdate="20240602T160946Z">
+        <seg>如果没有活动的环境，则进入集合变量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import OpenAPI…</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T152855Z" creationid="LiarOnce" creationdate="20240602T152855Z">
         <seg>导入 OpenAPI…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import certificate in PEM format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161342Z" creationid="LiarOnce" creationdate="20240602T161342Z">
+        <seg>导入 PEM 格式的证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import certificate in PKCS12 format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161434Z" creationid="LiarOnce" creationdate="20240602T161434Z">
+        <seg>导入 PKCS12 格式的证书</seg>
       </tuv>
     </tu>
     <tu>
@@ -672,16 +896,24 @@
       <tuv lang="en-US">
         <seg>Import environment files</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153519Z" creationid="LiarOnce" creationdate="20240602T153249Z">
-        <seg>导入环境变量文件</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161045Z" creationid="LiarOnce" creationdate="20240602T153249Z">
+        <seg>导入环境文件</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Import environment…</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153516Z" creationid="LiarOnce" creationdate="20240602T153248Z">
-        <seg>导入环境变量...</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161042Z" creationid="LiarOnce" creationdate="20240602T153248Z">
+        <seg>导入环境...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import private key in PEM format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161402Z" creationid="LiarOnce" creationdate="20240602T161402Z">
+        <seg>以 PEM 格式导入私钥</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +922,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153219Z" creationid="LiarOnce" creationdate="20240602T153219Z">
         <seg>导出时包括 secret 变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inherit from collection</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161224Z" creationid="LiarOnce" creationdate="20240602T161224Z">
+        <seg>继承集合</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +946,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154540Z" creationid="LiarOnce" creationdate="20240602T154540Z">
         <seg>输入线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Invalid URL.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161615Z" creationid="LiarOnce" creationdate="20240602T161615Z">
+        <seg>无效的 URL。</seg>
       </tuv>
     </tu>
     <tu>
@@ -824,8 +1072,8 @@
       <tuv lang="en-US">
         <seg>New environment</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153616Z" creationid="LiarOnce" creationdate="20240602T153616Z">
-        <seg>新建环境变量</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161125Z" creationid="LiarOnce" creationdate="20240602T153616Z">
+        <seg>新建环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -846,6 +1094,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On Windows, support for HTTP/2 requires Windows 10 or greater.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161528Z" creationid="LiarOnce" creationdate="20240602T161528Z">
+        <seg>在 Windows 上，对 HTTP/2 的支持需要 Windows 10 或更高版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One of the Form Data parameters has an invalid Content-Type.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161556Z" creationid="LiarOnce" creationdate="20240602T161556Z">
+        <seg>表单数据参数之一的内容类型无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155147Z" creationid="LiarOnce" creationdate="20240602T155147Z">
@@ -862,6 +1126,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PEM</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161305Z" creationid="LiarOnce" creationdate="20240602T161305Z">
+        <seg>PEM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PEM certificates</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161350Z" creationid="LiarOnce" creationdate="20240602T161350Z">
+        <seg>PEM 证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PEM private keys</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161414Z" creationid="LiarOnce" creationdate="20240602T161408Z">
+        <seg>PEM 私钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PKCS#12</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161306Z" creationid="LiarOnce" creationdate="20240602T161306Z">
+        <seg>PKCS#12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PKCS#12 client certificates need a password.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161509Z" creationid="LiarOnce" creationdate="20240602T161509Z">
+        <seg>PKCS#12 客户端证书需要密码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PKCS12 certificates</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161442Z" creationid="LiarOnce" creationdate="20240602T161435Z">
+        <seg>PKCS12 证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pampa</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155102Z" creationid="LiarOnce" creationdate="20240602T155102Z">
@@ -872,8 +1184,8 @@
       <tuv lang="en-US">
         <seg>Parallelism</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154357Z" creationid="LiarOnce" creationdate="20240602T154357Z">
-        <seg>并行</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161713Z" creationid="LiarOnce" creationdate="20240602T154357Z">
+        <seg>并行度</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +1194,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153718Z" creationid="LiarOnce" creationdate="20240602T153718Z">
         <seg>粘贴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please, check it and try again.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161612Z" creationid="LiarOnce" creationdate="20240602T161612Z">
+        <seg>请检查并再试一次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -936,8 +1256,8 @@
       <tuv lang="en-US">
         <seg>Pororoca environment</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154011Z" creationid="LiarOnce" creationdate="20240602T154011Z">
-        <seg>Pororoca 环境变量</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161154Z" creationid="LiarOnce" creationdate="20240602T154011Z">
+        <seg>Pororoca 环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -960,8 +1280,8 @@
       <tuv lang="en-US">
         <seg>Postman environment</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154016Z" creationid="LiarOnce" creationdate="20240602T154016Z">
-        <seg>Postman 环境变量</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161157Z" creationid="LiarOnce" creationdate="20240602T154016Z">
+        <seg>Postman 环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,6 +1374,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Response</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160705Z" creationid="LiarOnce" creationdate="20240602T160705Z">
+        <seg>响应</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Response: Failed ({0})</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160709Z" creationid="LiarOnce" creationdate="20240602T160709Z">
+        <seg>响应：失败 ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Response: {0} ({1})</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160716Z" creationid="LiarOnce" creationdate="20240602T160716Z">
+        <seg>响应：{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154652Z" creationid="LiarOnce" creationdate="20240602T154652Z">
@@ -1102,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Search certificate…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161418Z" creationid="LiarOnce" creationdate="20240602T161418Z">
+        <seg>搜索证书...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Search file…</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154446Z" creationid="LiarOnce" creationdate="20240602T154446Z">
@@ -1110,10 +1462,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Search private key…</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161422Z" creationid="LiarOnce" creationdate="20240602T161422Z">
+        <seg>搜索私钥...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select destination folder</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154038Z" creationid="LiarOnce" creationdate="20240602T154038Z">
         <seg>选择目标文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the base HTTP request to repeat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161618Z" creationid="LiarOnce" creationdate="20240602T161618Z">
+        <seg>选择要重复的基本 HTTP 请求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1144,8 +1512,8 @@
       <tuv lang="en-US">
         <seg>Set as current environment</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153727Z" creationid="LiarOnce" creationdate="20240602T153727Z">
-        <seg>设置为当前环境变量</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161130Z" creationid="LiarOnce" creationdate="20240602T153727Z">
+        <seg>设置为当前环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -1198,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TARGET VARIABLE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160736Z" creationid="LiarOnce" creationdate="20240602T160736Z">
+        <seg>TARGET VARIABLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>TEXT / PATH</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154730Z" creationid="LiarOnce" creationdate="20240602T154730Z">
@@ -1222,6 +1598,78 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The delay has to be greater or equal to zero.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161624Z" creationid="LiarOnce" creationdate="20240602T161624Z">
+        <seg>延迟必须大于或等于零。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The domain for Windows authentication cannot be blank.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161504Z" creationid="LiarOnce" creationdate="20240602T161504Z">
+        <seg>Windows 身份验证的域不能为空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The login for Windows authentication cannot be blank.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161451Z" creationid="LiarOnce" creationdate="20240602T161451Z">
+        <seg>Windows 身份验证的登录名不能为空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number of repetitions needs to be greater or equal to one.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161627Z" creationid="LiarOnce" creationdate="20240602T161627Z">
+        <seg>重复次数需要大于或等于 1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The parallelism needs to be greater or equal to one.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161707Z" creationid="LiarOnce" creationdate="20240602T161707Z">
+        <seg>并行度需要大于或等于 1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The password for Windows authentication cannot be blank.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161455Z" creationid="LiarOnce" creationdate="20240602T161455Z">
+        <seg>Windows 身份验证的密码不能为空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The password is required only if the private key is encrypted.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161332Z" creationid="LiarOnce" creationdate="20240602T161332Z">
+        <seg>只有当私钥加密时才需要密码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The request body requires a Content-Type.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161520Z" creationid="LiarOnce" creationdate="20240602T161520Z">
+        <seg>请求主体需要内容类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The request is invalid.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161611Z" creationid="LiarOnce" creationdate="20240602T161611Z">
+        <seg>请求无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Theme</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155059Z" creationid="LiarOnce" creationdate="20240602T155059Z">
@@ -1230,10 +1678,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tip: For JSON value capture: $.myProp[0].myProp2 ($ means root, [0] means array element).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160940Z" creationid="LiarOnce" creationdate="20240602T160940Z">
+        <seg>提示：对于JSON值捕获：$.myProp[0].myProp2（$表示根，[0]表示数组元素）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tip: If an environment variable has the same name of an other collection variable, the value of the environment variable will be the one applied.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154033Z" creationid="LiarOnce" creationdate="20240602T154033Z">
         <seg>提示：如果环境变量与其他集合变量同名，则环境变量的值将是应用的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tip: If the certificate file contains the private key, leave the private key path blank.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161322Z" creationid="LiarOnce" creationdate="20240602T161322Z">
+        <seg>提示：如果证书文件包含私钥，请将私钥路径留空。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1250,6 +1714,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154831Z" creationid="LiarOnce" creationdate="20240602T154831Z">
         <seg>URL 编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use current user</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161254Z" creationid="LiarOnce" creationdate="20240602T161254Z">
+        <seg>使用当前用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use one of the available Content-Types for the request body.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161558Z" creationid="LiarOnce" creationdate="20240602T161558Z">
+        <seg>为请求正文使用一种可用的内容类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Windows / NTLM</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161252Z" creationid="LiarOnce" creationdate="20240602T161252Z">
+        <seg>Windows / NTLM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can duplicate, but not copy or cut a collection.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T152937Z" creationid="LiarOnce" creationdate="20240602T152937Z">
@@ -1358,10 +1846,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0:0.00}s</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160651Z" creationid="LiarOnce" creationdate="20240602T160651Z">
+        <seg>{0:0.00}s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0}/{1} repetitions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154606Z" creationid="LiarOnce" creationdate="20240602T154606Z">
         <seg>{0}/{1} 重复.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0}h {1]min</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160649Z" creationid="LiarOnce" creationdate="20240602T160649Z">
+        <seg>{0}h {1]min</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0}min</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160650Z" creationid="LiarOnce" creationdate="20240602T160650Z">
+        <seg>{0}min</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0}min {1}s</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160650Z" creationid="LiarOnce" creationdate="20240602T160650Z">
+        <seg>{0}min {1}s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0}ms</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160648Z" creationid="LiarOnce" creationdate="20240602T160648Z">
+        <seg>{0}ms</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
