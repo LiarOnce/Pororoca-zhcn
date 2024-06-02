@@ -8,88 +8,96 @@
       <tuv lang="en-US">
         <seg>(basic auth login)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161229Z" creationid="LiarOnce" creationdate="20240602T161229Z">
-        <seg>（基本授权登录）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T161229Z">
+        <seg> (基本授权登录)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(basic auth password)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161231Z" creationid="LiarOnce" creationdate="20240602T161231Z">
-        <seg>（基本授权密码）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T161231Z">
+        <seg> (基本授权密码)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(bearer auth token)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T161828Z">
+        <seg> (承载身份验证令牌)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(binary content not shown, {0} bytes)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154932Z" creationid="LiarOnce" creationdate="20240602T154932Z">
-        <seg>（未显示二进制内容，{0} 字节）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154932Z">
+        <seg> (未显示二进制内容，{0} 字节)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(certificate file path here)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161303Z" creationid="LiarOnce" creationdate="20240602T161303Z">
-        <seg>（证书文件路径）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T161303Z">
+        <seg> (证书文件路径)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(could not read body as UTF-8 text, {0} bytes)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155008Z" creationid="LiarOnce" creationdate="20240602T155008Z">
-        <seg>（无法将正文读取为 UTF-8 文本，{0} 字节）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T155008Z">
+        <seg> (无法将正文读取为 UTF-8 文本，{0} 字节)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(domain)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161300Z" creationid="LiarOnce" creationdate="20240602T161300Z">
-        <seg>（域）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T161300Z">
+        <seg> (域)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(file content-type)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154707Z" creationid="LiarOnce" creationdate="20240602T154707Z">
-        <seg>(文件内容类型）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154707Z">
+        <seg>(文件内容类型)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(file password here)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161316Z" creationid="LiarOnce" creationdate="20240602T161316Z">
-        <seg>(文件密码）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T161316Z">
+        <seg>(文件密码)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(file path here)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155132Z" creationid="LiarOnce" creationdate="20240602T155132Z">
-        <seg>(文件路径）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T155132Z">
+        <seg>(文件路径)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(file path)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154713Z" creationid="LiarOnce" creationdate="20240602T154713Z">
-        <seg>(文件路径）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154713Z">
+        <seg>(文件路径)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(file src path)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154443Z" creationid="LiarOnce" creationdate="20240602T154443Z">
-        <seg>(文件来源路径）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154443Z">
+        <seg>(文件来源路径)</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,24 +120,24 @@
       <tuv lang="en-US">
         <seg>(login)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161255Z" creationid="LiarOnce" creationdate="20240602T161255Z">
-        <seg>（登录）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T161255Z">
+        <seg> (登录)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(password)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161257Z" creationid="LiarOnce" creationdate="20240602T161257Z">
-        <seg>（密码）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T161257Z">
+        <seg> (密码)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(private key file path here)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161447Z" creationid="LiarOnce" creationdate="20240602T161447Z">
-        <seg>（私钥文件路径）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T161447Z">
+        <seg> (私钥文件路径)</seg>
       </tuv>
     </tu>
     <tu>
@@ -144,48 +152,48 @@
       <tuv lang="en-US">
         <seg>(raw content here)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155138Z" creationid="LiarOnce" creationdate="20240602T155138Z">
-        <seg>(原始内容）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T155138Z">
+        <seg>(原始内容)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(raw content-type here)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154841Z" creationid="LiarOnce" creationdate="20240602T154841Z">
-        <seg>(原始内容类型）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154841Z">
+        <seg>(原始内容类型)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(request url here)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154927Z" creationid="LiarOnce" creationdate="20240602T154927Z">
-        <seg>（请求 url）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154927Z">
+        <seg> (请求 url)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(response body here)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154951Z" creationid="LiarOnce" creationdate="20240602T154951Z">
-        <seg>（响应主体）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154951Z">
+        <seg> (响应主体)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(response content-type here)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154954Z" creationid="LiarOnce" creationdate="20240602T154938Z">
-        <seg>（响应内容类型）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154938Z">
+        <seg> (响应内容类型)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(select the base http request)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154313Z" creationid="LiarOnce" creationdate="20240602T154313Z">
-        <seg>（选择基本http请求）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154313Z">
+        <seg> (选择基本http请求)</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At least one input line is required.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162013Z" creationid="LiarOnce" creationdate="20240602T162013Z">
+        <seg>至少需要一条输入行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auth</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153451Z" creationid="LiarOnce" creationdate="20240602T153451Z">
@@ -376,8 +392,8 @@
       <tuv lang="en-US">
         <seg>Cancel (F6)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154856Z" creationid="LiarOnce" creationdate="20240602T154856Z">
-        <seg>取消（F6）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154856Z">
+        <seg>取消 (F6)</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contribute</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162138Z" creationid="LiarOnce" creationdate="20240602T162138Z">
+        <seg>贡献</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153531Z" creationid="LiarOnce" creationdate="20240602T153531Z">
@@ -504,8 +528,8 @@
       <tuv lang="en-US">
         <seg>Delay (ms)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154359Z" creationid="LiarOnce" creationdate="20240602T154359Z">
-        <seg>延迟（ms）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154359Z">
+        <seg>延迟 (ms)</seg>
       </tuv>
     </tu>
     <tu>
@@ -726,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>File for request body not found.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162015Z" creationid="LiarOnce" creationdate="20240602T162015Z">
+        <seg>找不到请求正文的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Finished {0} repetitions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154615Z" creationid="LiarOnce" creationdate="20240602T154615Z">
@@ -942,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Input data file not found.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161954Z" creationid="LiarOnce" creationdate="20240602T161954Z">
+        <seg>找不到输入数据文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Input line</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154540Z" creationid="LiarOnce" creationdate="20240602T154540Z">
@@ -954,6 +994,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161615Z" creationid="LiarOnce" creationdate="20240602T161615Z">
         <seg>无效的 URL。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Invalid input data JSON array.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162003Z" creationid="LiarOnce" creationdate="20240602T162003Z">
+        <seg>输入数据 JSON 数组无效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Not connected.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162129Z" creationid="LiarOnce" creationdate="20240602T162129Z">
+        <seg>未连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On Windows, support for HTTP/2 requires Windows 10 or greater.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161528Z" creationid="LiarOnce" creationdate="20240602T161528Z">
@@ -1106,6 +1162,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161556Z" creationid="LiarOnce" creationdate="20240602T161556Z">
         <seg>表单数据参数之一的内容类型无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162140Z" creationid="LiarOnce" creationdate="20240602T162140Z">
+        <seg>选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -1408,8 +1472,8 @@
       <tuv lang="en-US">
         <seg>Run UI tests (Ctrl+F12)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155112Z" creationid="LiarOnce" creationdate="20240602T155112Z">
-        <seg>运行UI测试（Alt +F12）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T155112Z">
+        <seg>运行UI测试 (Alt +F12)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1440,8 +1504,16 @@
       <tuv lang="en-US">
         <seg>Save as… (F9)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T155023Z" creationid="LiarOnce" creationdate="20240602T155023Z">
-        <seg>另存为...（F9）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T155023Z">
+        <seg>另存为... (F9)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saved!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162150Z" creationid="LiarOnce" creationdate="20240602T162150Z">
+        <seg>保存!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,8 +1568,8 @@
       <tuv lang="en-US">
         <seg>Send (F5)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154919Z" creationid="LiarOnce" creationdate="20240602T154919Z">
-        <seg>发送（F5）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154919Z">
+        <seg>发送 (F5)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1544,8 +1616,8 @@
       <tuv lang="en-US">
         <seg>Start (F5)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154322Z" creationid="LiarOnce" creationdate="20240602T154322Z">
-        <seg>开始（F5）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154322Z">
+        <seg>开始 (F5)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1560,8 +1632,8 @@
       <tuv lang="en-US">
         <seg>Stop (F6)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154326Z" creationid="LiarOnce" creationdate="20240602T154326Z">
-        <seg>停止（F6）</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T154326Z">
+        <seg>停止 (F6)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1598,6 +1670,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The compression max window bits must be within 9 and 15.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162121Z" creationid="LiarOnce" creationdate="20240602T162121Z">
+        <seg>压缩最大窗口位必须在9到15之间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The connection request is invalid.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162132Z" creationid="LiarOnce" creationdate="20240602T162132Z">
+        <seg>连接请求无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The delay has to be greater or equal to zero.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161624Z" creationid="LiarOnce" creationdate="20240602T161624Z">
@@ -1614,10 +1702,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The file that composes the message was not found.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162019Z" creationid="LiarOnce" creationdate="20240602T162019Z">
+        <seg>未找到组成该消息的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The login for Windows authentication cannot be blank.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161451Z" creationid="LiarOnce" creationdate="20240602T161451Z">
         <seg>Windows 身份验证的登录名不能为空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The message to send is invalid.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162130Z" creationid="LiarOnce" creationdate="20240602T162130Z">
+        <seg>要发送的消息无效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,10 +1782,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This HTTP version is not available for WebSocket connections.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T162127Z" creationid="LiarOnce" creationdate="20240602T162127Z">
+        <seg>此 HTTP 版本不可用于 WebSocket 连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tip: For JSON value capture: $.myProp[0].myProp2 ($ means root, [0] means array element).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T160940Z" creationid="LiarOnce" creationdate="20240602T160940Z">
-        <seg>提示：对于JSON值捕获：$.myProp[0].myProp2（$表示根，[0]表示数组元素）。</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T161940Z" creationid="LiarOnce" creationdate="20240602T160940Z">
+        <seg>提示：对于JSON值捕获：$.myProp[0].myProp2 ($表示根，[0]表示数组元素)。</seg>
       </tuv>
     </tu>
     <tu>
