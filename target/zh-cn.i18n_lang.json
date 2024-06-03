@@ -69,7 +69,7 @@
     "ContextMenu/Rename": "重命名",
     "ContextMenu/SetAsCurrentEnvironment": "设置为当前环境",
     "DeleteItemsDialog/Title": "Pororoca - 删除项目",
-    "DeleteItemsDialog/MessageSingleItem": "您确定要删除 \"{0}\" 吗？",
+    "DeleteItemsDialog/MessageSingleItem": "您确定要删除 '{0}' 吗？",
     "DeleteItemsDialog/MessageMultipleItems": "您确定要删除所选项目吗？",
     "EditableTextBlock/RenameToolTip": "重命名 (F2)",
     "Environment/AddVariable": "添加变量",
