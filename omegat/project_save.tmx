@@ -341,11 +341,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>此处一定要单引号（'）</note>
       <tuv lang="en-US">
         <seg>Are you sure you want to delete '{0}'?</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T153755Z" creationid="LiarOnce" creationdate="20240602T153755Z">
-        <seg>您确定要删除 "{0}" 吗？</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T235950Z" creationid="LiarOnce" creationdate="20240602T153755Z">
+        <seg>您确定要删除 '{0}' 吗？</seg>
       </tuv>
     </tu>
     <tu>
