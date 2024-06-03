@@ -1831,6 +1831,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Simplified Chinese</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240603T001059Z" creationid="LiarOnce" creationdate="20240603T001059Z">
+        <seg>中文 (简体)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20240602T154316Z" creationid="LiarOnce" creationdate="20240602T154316Z">
