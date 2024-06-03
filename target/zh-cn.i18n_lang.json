@@ -273,6 +273,7 @@
     "TopMenuLanguage/Português": "Portuguese",
     "TopMenuLanguage/Russian": "Russian",
     "TopMenuLanguage/Italian": "Italian",
+    "TopMenuLanguage/SimplifiedChinese": "中文 (简体)",
     "TopMenuOptions/EnableTlsVerification": "启用 TLS 验证",
     "TopMenuOptions/Language": "语言",
     "TopMenuOptions/Theme": "主题",
